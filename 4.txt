@@ -1,1 +1,5 @@
+
 adding some statments only on Master branch.
+
+i modify 4.txt in a different way under release_1.0.0
+retaining both under master. edited manually.
